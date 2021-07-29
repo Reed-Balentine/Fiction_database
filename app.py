@@ -4,10 +4,10 @@ import pandas as pd
 
 try:
     conn = mariadb.connect(
-        user="root",
-        password="password",
-        host="localhost",
-        port=3306,
+        user="****",
+        password="****",
+        host="****",
+        port=****,
         database="fiction"
 
     )
